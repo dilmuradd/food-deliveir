@@ -1,0 +1,20 @@
+.Cart__Header{
+    padding: 20px;
+    background: #eee;
+}
+.Cart__Header h4{
+    cursor: pointer;
+    color: rgb(85, 2, 2);
+}
+.Cart__Header__Link{
+    text-decoration: none;
+    color: inherit;
+}
+.Cart__img{
+    width: 70px;
+    border-radius: 14px;
+}
+.img-data{
+    width: 100px;
+    margin-top: 20px;
+}
