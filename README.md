@@ -9,10 +9,10 @@ Loyihani o'rnatish uchun quyidagi qadamlarni bajaring:
 Kerakli paketlarni o'rnatish:
 
 
-cd repository-name
-npm install
+cd food-deliveir,
+npm install,
 Loyihani ishga tushirish:
-npm run dev
+npm run dev,
 Brauzerda loyihani ko'rish uchun: http://localhost:5173
 
 Ishlatilgan Texnologiyalar
