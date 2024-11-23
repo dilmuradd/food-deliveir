@@ -8,16 +8,12 @@ Loyihani o'rnatish uchun quyidagi qadamlarni bajaring:
    git clone https://github.com/user/repository-name.git
 Kerakli paketlarni o'rnatish:
 
-bash
-Копировать код
+
 cd repository-name
 npm install
 Loyihani ishga tushirish:
-
-bash
-Копировать код
 npm run dev
-Brauzerda loyihani ko'rish uchun: http://localhost:3000
+Brauzerda loyihani ko'rish uchun: http://localhost:5173
 
 Ishlatilgan Texnologiyalar
 Loyihada quyidagi texnologiyalar ishlatilgan:
@@ -33,8 +29,7 @@ API Documentation
 GET /product
 Bu endpoint barcha mahsulotlarni olish uchun ishlatiladi. Response quyidagicha bo'ladi:
 
-json
-Копировать код
+=
 [
    {
         "id": 1,
@@ -48,8 +43,7 @@ json
 GET /category
 Bu endpoint mavjud kategoriya turlarini qaytaradi. Response quyidagicha bo'ladi:
 
-json
-Копировать код
+j
 ["Fast Food","Italian Cuisine","Vegetarian"]
 POST /order
 Bu endpoint yangi buyurtma yaratadi. Body parametrlari:
