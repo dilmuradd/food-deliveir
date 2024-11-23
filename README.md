@@ -24,12 +24,12 @@ Bu zamonaviy ovqat yetkazib berish web ilovasi React va TypeScript asosida quril
 
 1. Repositoriyani klonlang:
 ```bash
-git clone https://github.com/user/repository-name.git
+git clone https://github.com/dilmuradd/food-deliveir
 ```
 
 2. Loyiha papkasiga kiring:
 ```bash
-cd food-delivery
+cd food-deliveir
 ```
 
 3. Kerakli paketlarni o'rnating:
