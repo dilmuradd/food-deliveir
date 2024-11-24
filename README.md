@@ -18,6 +18,7 @@ Bu zamonaviy ovqat yetkazib berish web ilovasi React va TypeScript asosida quril
   - Material UI
   - React Query
   - Zustand (State management)
+  - React Hook Form
   - Axios
 
 ## ⚙️ O'rnatish
